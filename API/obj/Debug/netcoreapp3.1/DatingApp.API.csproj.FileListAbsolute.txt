@@ -182,3 +182,11 @@ C:/Users/ltsen/dev/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Ext
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/obj/Debug/netcoreapp3.1/DatingApp.API.dll
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/obj/Debug/netcoreapp3.1/DatingApp.API.pdb
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/obj/Debug/netcoreapp3.1/DatingApp.API.genruntimeconfig.cache
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
