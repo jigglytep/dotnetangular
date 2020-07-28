@@ -1,0 +1,4 @@
+/* @import "bootstrap-social.less"; */
+.dropdown-toggle, .dropdown-menu{
+    cursor: pointer;
+}

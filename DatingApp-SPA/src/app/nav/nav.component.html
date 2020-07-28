@@ -1,0 +1,50 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-primary">
+  <div class="container">
+
+    <a class="navbar-brand" [routerLink]="['/home']">Lev Tsenovoy</a>
+
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/resume']">Resume <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/projects']">Projects</a>
+      </li>
+      <li class="nav-item" routerLinkActive="active">
+        <a class="nav-link" [routerLink]="['/certifications']">Certifications</a>
+      </li>
+    </ul>
+
+
+
+
+  </div>
+
+  <div class="dropdown">
+
+
+    <ul class="navbar-nav mr-auto">
+      <!-- linked in -->
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.linkedin.com/in/lev-tsenovoy-58821821/" target="_blank">
+          <i class="fa fa-linkedin"></i></a>
+      </li>
+      <!-- github -->
+      <li class="nav-item ">
+        <a class="nav-link" href="https://github.com/jigglytep" target="_blank"><i class="fa fa-github"></i></a>
+      </li>
+      <!-- stack overflow -->
+      <li class="nav-item ">
+        <a class="nav-link" href="https://stackoverflow.com/users/3476943/lev" target="_blank"><i
+            class="fa fa-stack-overflow"></i></a>
+      </li>
+      <!-- twitter -->
+      <li class="nav-item">
+        <a class="nav-link" href="https://twitter.com/jigglytep" target="_blank">
+          <i class="fa fa-twitter"></i>
+        </a>
+      </li>
+
+    </ul>
+  </div>
+</nav>
