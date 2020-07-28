@@ -1,69 +1,17 @@
 <div class="container mt-5">
-  <div class="row no-gutters">
-    <div class="col-4">
-      <div class="card text-white bg-info mb-3" style="max-width: 20rem;">
-        <div class="card-header">Lev Tsenovoy</div>
-        <div class="card-body">
-          <h4 class="card-title"> <a class="btn btn-info card-text" href="tel:646-300-3295">646-300-3295</a>
-          </h4>
-          <a class="btn btn-info card-text" href="mailto:lev@lev.one">Lev@Lev.one</a>
-        </div>
-      </div>
+  <div *ngIf="!registerMode" style="text-align: center">
+    <h1>Find your match</h1>
+    <p class="lead">Come on in to view your matches... All you need to do is sign up!</p>
+    <div class="text-center">
+      <button class="btn btn-primary btn-lg mr-2" (click)="registerToggle()">Register</button>
+      <button class="btn btn-info btn-lg">Learn more</button>
     </div>
-    <div class="card text-white bg-secondary col-8">
-      <div>
-        <p class=" card-text">
-          I have 4+ years of experience as a software developer; always interested in learning new technology, and
-          talking to interesting people.
-          <br>
-          Motivated by product success and the uphoria of solving hard puzzles.
-          <br>
-          I consider myself a Mid-level full-stack developer experienced with:</p>
-        <div class="row no-gutters">
-          <div class="col-4">
-            <div>BackEnd:
-              <div>
-                <ul>
-                  <li>Python</li>
-                  <li>Flask</li>
-                  <li>Django/DjangoAPI</li>
-                  <li>SQLAlchemy</li>
-                  <li>SQL, SQLite, PostgreSQL,Oracle</li>
-                  <li>Alembic/Flask-Migrate</li>
-                  <li>Postgres</li>
-                  <li>Oracle</li>
-                  <li>Redshift</li>
-                  <li>DynameDB</li>
-                  <li>Git</li>
-                  <li>DevOps:</li>
-                  <ul>
-                    <li>Jenkins</li>
-                    <li>AWS</li>
-                    <li>Cloud Formation, Redshift, S3, EBS, Route53, CI/CD, CodeDepoly, CodeBuild, CodeCommit and other
-                      AWS products</li>
-                    <li>API Framework</li>
-                  </ul>
-                  <li>Linux, OSX. Windows</li>
+  </div>
 
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div class="col-4">
-            <div>Front End:
-              <div>
-                <ul>
-                  <li>Angular</li>
-                  <li>Java Script</li>
-                  <li>Bootstrap</li>
-                  <li>NodeJS</li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-        <p>Looking to bring further success and growth.
-        </p>
+  <div *ngIf="registerMode" class="container">
+    <div class="row justify-content-center">
+      <div class="col-4">
+        <app-register (cancelRegister)="cancelRegisterMode($event)"></app-register>
       </div>
     </div>
   </div>
