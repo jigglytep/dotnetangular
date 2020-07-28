@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./member-list.component.css']
 })
 export class MemberListComponent implements OnInit {
-  pdfSrc = "assets/pdf/LevTsenovoy.pdf";
+  pdfSrc = "assets/pdf/LevTsenovoy.PDF";
   constructor() { }
 
   ngOnInit() {
