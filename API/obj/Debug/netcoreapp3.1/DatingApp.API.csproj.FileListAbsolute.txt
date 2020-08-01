@@ -190,3 +190,9 @@ C:/Users/ltsen/dev/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Ext
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Data/UserSeedData.json
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
