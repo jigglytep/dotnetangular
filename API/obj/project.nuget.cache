@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ayUWkZG0Hs/746yZm3pLb8szd8KpLPuZgBGJTUMjuPRGNHHzu1rZdfO2oyRBI5zU4kRZHTPvb01FoID6Xhd8Lg==",
+  "dgSpecHash": "7kubSQpOb4UG/NYyw7aAuN18ASCg/g+cQVnUByOvvkteuYIdtLmcY4MMNK0B4Qf/YySUOjRMiEvG3xvRZIkrhg==",
   "success": true,
   "projectFilePath": "/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/DatingApp.API.csproj",
   "expectedPackageFiles": [
     "/Users/levtsenovoy/.nuget/packages/automapper/10.0.0/automapper.10.0.0.nupkg.sha512",
     "/Users/levtsenovoy/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.0.1/automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
+    "/Users/levtsenovoy/.nuget/packages/cloudinarydotnet/1.11.0/cloudinarydotnet.1.11.0.nupkg.sha512",
     "/Users/levtsenovoy/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.0.0/microsoft.aspnetcore.authentication.jwtbearer.3.0.0.nupkg.sha512",
     "/Users/levtsenovoy/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.6/microsoft.aspnetcore.jsonpatch.3.1.6.nupkg.sha512",
     "/Users/levtsenovoy/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/3.1.6/microsoft.aspnetcore.mvc.newtonsoftjson.3.1.6.nupkg.sha512",

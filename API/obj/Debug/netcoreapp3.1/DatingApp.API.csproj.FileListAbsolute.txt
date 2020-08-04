@@ -196,3 +196,4 @@ C:/Users/ltsen/dev/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.Ext
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/AutoMapper.dll
 /Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/levtsenovoy/Developer/dot_net_udemy/dotnetangular/API/bin/Debug/netcoreapp3.1/CloudinaryDotNet.dll
